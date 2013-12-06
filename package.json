@@ -1,6 +1,6 @@
 {
   "name": "qless",
-  "version": "1.5.1",
+  "version": "1.5.2",
   "description": "Leaner CSS",
   "homepage": "http://lesscss.org",
   "author": {
@@ -11,20 +11,20 @@
     "The Core Less Team"
   ],
   "bugs": {
-    "url": "https://github.com/less/less.js/issues"
+    "url": "https://github.com/rinh/qless.js/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/less/less.js.git"
+    "url": "https://github.com/rinh/qless.js.git"
   },
   "licenses": [
     {
       "type": "Apache v2",
-      "url": "https://github.com/less/less.js/blob/master/LICENSE"
+      "url": "https://github.com/rinh/qless.js/blob/master/LICENSE"
     }
   ],
   "bin": {
-    "lessc": "./bin/lessc"
+    "lessc": "./bin/qlessc"
   },
   "main": "./lib/less/index",
   "directories": {
